@@ -1,0 +1,222 @@
+{
+  "Types": [
+    {
+      "id": "245e",
+      "name": "Trà sữa",
+      "products": [
+        {
+          "name": "Strawberry Oreo Smoothie",
+          "price": "57000",
+          "description": "Strawberry Oreo Smoothie là sự kết hợp hoàn hảo giữa dâu tây tươi mát và bánh Oreo thơm béo, tạo nên một ly smoothie vừa ngọt ngào vừa sánh mịn. Dâu tây mang đến vị chua nhẹ tự nhiên, hòa quyện cùng vị socola và kem sữa của Oreo, tạo nên hương vị độc đáo, khó cưỡng.\nMỗi ngụm smoothie mang lại cảm giác mát lạnh, vừa béo ngậy vừa thanh mát, thích hợp để thưởng thức vào bất kỳ thời điểm nào trong ngày. Đây là lựa chọn lý tưởng cho những ai yêu thích đồ uống ngọt ngào nhưng vẫn muốn có chút tươi mới từ trái cây. 🍓🥤",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740934351/idudbdv4zf4sdlnu2iia.png"
+        },
+        {
+          "name": "Trà sữa Chocolate",
+          "price": "25000",
+          "description": "Trà sữa Chocolate là sự kết hợp hoàn hảo giữa vị đắng nhẹ của trà, vị béo ngậy của sữa và hương thơm quyến rũ của chocolate. Khi thưởng thức, bạn sẽ cảm nhận được vị cacao nguyên chất hoà quyện cùng độ ngọt vừa phải, tạo nên một thức uống thơm ngon, hấp dẫn.\nMỗi ly trà sữa Chocolate không chỉ mang đến sự ngọt ngào mà còn giúp bạn thư giãn, nạp lại năng lượng sau một ngày dài. Đặc biệt, khi kết hợp với topping như trân châu, pudding hoặc thạch, hương vị sẽ càng trở nên thú vị hơn. Đây là lựa chọn hoàn hảo cho những tín đồ yêu thích chocolate và trà sữa!",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740934433/umy9ovg89apnwbyaj3bz.png"
+        },
+        {
+          "name": "STAWBERRY-8",
+          "price": "25000",
+          "description": "Strawberry-8 – Thức uống mát lạnh, tươi mới từ dâu tây chín mọng, kết hợp cùng lớp sữa béo ngậy, tạo nên hương vị ngọt ngào và sảng khoái. Với sắc hồng tự nhiên và vị chua nhẹ hài hòa, Strawberry-8 mang đến trải nghiệm đầy thú vị, thích hợp để giải nhiệt và thư giãn. 🍓🥤",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740934964/aor0psvsdkqsxccsc7vn.png"
+        },
+        {
+          "name": "Tra-sua-Earl-Grey-Carvia",
+          "price": "47000",
+          "description": "Trà Sữa Earl Grey Carvia – Sự kết hợp tinh tế giữa trà Earl Grey thơm nồng hương cam bergamot và vị béo mịn của sữa, hòa quyện cùng lớp kem Carvia độc đáo. Thức uống mang đến hậu vị thanh nhẹ, vừa sang trọng vừa đầy cuốn hút, thích hợp cho những ai yêu thích trà sữa với hương vị đậm đà và tinh tế. 🍵✨",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740935032/hjpj93rk5ntmjedepwrl.png"
+        },
+        {
+          "name": "Trà sữa trà xanh",
+          "price": "36000",
+          "description": "Trà Sữa Trà Xanh – Sự kết hợp hoàn hảo giữa vị trà xanh thơm mát và sữa béo mịn, mang đến hương vị thanh khiết và dịu nhẹ. Thức uống này không chỉ giúp giải khát mà còn mang lại cảm giác thư giãn, phù hợp cho những ai yêu thích vị trà xanh truyền thống nhưng vẫn muốn tận hưởng sự béo ngậy của sữa. 🍵💚",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740935251/qkvvpj2zltglkuaoqx3t.png"
+        },
+        {
+          "name": "Trà sữa trà đen",
+          "price": "57000",
+          "description": "Trà Sữa Trà Đen – Sự kết hợp đậm đà giữa vị trà đen thơm nồng và sữa béo mịn, mang đến hương vị hài hòa, quyến rũ. Trà đen giúp kích thích tinh thần, trong khi lớp sữa mang lại sự mềm mại, tạo nên một thức uống vừa đậm vị vừa ngọt dịu. Hoàn hảo khi kết hợp cùng trân châu hoặc kem cheese! ☕🖤",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740935299/huagcxdvydcni6q8ttyz.png"
+        },
+        {
+          "name": "Trà sữa sương sáo",
+          "price": "35000",
+          "description": "Trà Sữa Sương Sáo – Sự hòa quyện độc đáo giữa trà sữa béo ngậy và sương sáo mềm mịn, thanh mát. Vị trà thơm lừng kết hợp với sương sáo dai giòn giúp tạo nên cảm giác sảng khoái, thích hợp để giải nhiệt ngày hè. Một lựa chọn tuyệt vời cho những ai yêu thích sự tươi mát và mới lạ! 🧋✨",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740935362/zropnpokgrr6q2nrsajs.png"
+        }
+      ]
+    },
+    {
+      "id": "afad",
+      "name": "Trà trái cây",
+      "products": [
+        {
+          "name": "Oolong vải",
+          "price": "29000",
+          "description": "Oolong Vải là sự kết hợp tinh tế giữa trà Oolong thanh mát và hương vải ngọt dịu, mang đến trải nghiệm vừa sảng khoái vừa thơm ngon. Trà Oolong được ủ kỹ, giữ trọn vị đậm đà và hậu ngọt đặc trưng, hòa quyện cùng hương vải tự nhiên, tạo nên một thức uống thanh tao, dễ uống.\nMỗi ngụm trà mang đến cảm giác tươi mới, vừa có vị chát nhẹ của trà, vừa có vị ngọt thanh của vải, thích hợp để thư giãn hoặc giải nhiệt trong những ngày nóng bức. Đây là lựa chọn lý tưởng cho những ai yêu thích trà trái cây nhưng vẫn muốn giữ được vị trà đậm đà. 🌿🍹",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740934268/k0rczwojzyzakyhtgsbh.png"
+        },
+        {
+          "name": "Đen đào",
+          "price": "25000",
+          "description": "Đen Đào là một loại thức uống kết hợp giữa trà đen và đào, tạo nên hương vị thanh mát, thơm lừng và cực kỳ hấp dẫn. Thức uống này thường được pha chế từ trà đen nguyên chất, mang vị đậm đà và hơi chát nhẹ, kết hợp với vị ngọt dịu, thanh thanh của đào.\n\nNgoài ra, Đen Đào thường được biến tấu với các nguyên liệu như mật ong, sữa, hoặc thạch đào để tăng thêm độ ngon miệng. Đây là lựa chọn hoàn hảo cho những ai yêu thích vị trà truyền thống nhưng vẫn muốn có chút hoa quả tươi mát.",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740924890/v6belglfhxzl6lv9btz2.png"
+        },
+        {
+          "name": "ALISAN-TRÁI-CÂY",
+          "price": "40000",
+          "description": "ALISAN - Trái Cây là sự kết hợp hoàn hảo giữa trà Alisan thanh mát và hương vị tự nhiên từ các loại trái cây tươi. Với hương thơm đặc trưng của trà ô long Alisan, hòa quyện cùng vị ngọt dịu và chua nhẹ từ trái cây, thức uống này mang đến cảm giác sảng khoái, tươi mới và đầy năng lượng.\nThích hợp cho những ai yêu thích sự cân bằng giữa vị trà đậm đà và vị trái cây thanh khiết. Một lựa chọn lý tưởng để giải nhiệt và thư giãn mỗi ngày!",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740933908/zevzplx8uhbar0c10ezb.png"
+        },
+        {
+          "name": "Chanh-Aiyu-trân-châu-trắng",
+          "price": "25000",
+          "description": "Chanh Aiyu Trân Châu Trắng là sự kết hợp độc đáo giữa vị chua thanh mát của chanh tươi, thạch Aiyu mềm mịn và trân châu trắng dai giòn sần sật. Thạch Aiyu – một loại thạch tự nhiên từ Đài Loan, không chỉ giúp tăng hương vị tươi mới mà còn mang lại cảm giác thanh mát sảng khoái.\n\nThức uống này không chỉ thơm ngon mà còn giúp giải nhiệt, cực kỳ thích hợp cho những ngày hè oi bức! 🥤❄️",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740933998/buon1gaqp0nkqevdy9sw.png"
+        },
+        {
+          "name": "Đen đào",
+          "price": "25000",
+          "description": "Đen Đào là sự kết hợp độc đáo giữa trà đen đậm vị và đào ngọt thanh, mang đến một thức uống vừa thơm ngon vừa sảng khoái. Trà đen với hương thơm nồng nàn, hậu vị hơi chát nhẹ, kết hợp với vị đào tươi mát giúp cân bằng hương vị, tạo cảm giác dễ chịu khi thưởng thức.\nThức uống này không chỉ giúp giải nhiệt mà còn mang lại nhiều lợi ích cho sức khỏe như tăng cường sự tỉnh táo, hỗ trợ tiêu hóa và làm đẹp da. Đen Đào là lựa chọn hoàn hảo cho những ai yêu thích sự hòa quyện giữa vị trà truyền thống và trái cây tự nhiên! 🥤❄️",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740934128/busjby91aetccskkc8ip.png"
+        },
+        {
+          "name": "Đào hồng mận hột é",
+          "price": "20000",
+          "description": "Đào Hồng Mận Hột É là sự kết hợp hoàn hảo giữa vị ngọt thanh của đào, chút chua nhẹ của hồng mận và hột é dai giòn, tạo nên một thức uống vừa thơm ngon vừa giải nhiệt. Hương đào tự nhiên hòa quyện cùng hồng mận đậm đà giúp kích thích vị giác, trong khi hột é mang lại cảm giác thanh mát và tốt cho sức khỏe.\nThức uống này không chỉ giúp giải khát mà còn cung cấp nhiều lợi ích cho cơ thể, thích hợp để thưởng thức vào những ngày nóng bức! 🥤❄️",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740934073/dkqcjuib4miagh7shfsy.png"
+        }
+      ]
+    },
+    {
+      "id": "d258",
+      "name": "Kem",
+      "products": [
+        {
+          "name": "Kem chân trâu",
+          "price": "45000",
+          "description": "Kem Trân Châu là sự kết hợp hoàn hảo giữa kem béo mịn và trân châu dẻo dai, mang đến trải nghiệm vừa ngọt ngào vừa thú vị trong từng ngụm. Lớp kem mát lạnh tan ngay trên đầu lưỡi, hòa quyện cùng những viên trân châu mềm dẻo, tạo nên cảm giác vừa béo thơm vừa dai giòn sảng khoái.\nMón này không chỉ giúp giải nhiệt mà còn mang đến hương vị độc đáo, thích hợp cho những ai yêu thích sự kết hợp giữa kem và trà sữa. Một lựa chọn tuyệt vời cho những ngày hè oi bức hoặc khi bạn muốn thưởng thức điều gì đó thật đặc biệt! 🍨🥤",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740934185/rq9byaqoheb7vccwiykh.png"
+        },
+        {
+          "name": "Kem trà sữa",
+          "price": "45000",
+          "description": "Kem trà sữa là sự kết hợp độc đáo giữa hương vị trà sữa truyền thống và kết cấu mát lạnh của kem, mang đến trải nghiệm mới lạ và hấp dẫn. Với vị trà thơm nhẹ, hòa quyện cùng độ béo của sữa và chút ngọt thanh, kem trà sữa không chỉ giải nhiệt mà còn kích thích vị giác.\nĐặc biệt, khi kết hợp với trân châu dai giòn hay thạch mềm mịn, mỗi muỗng kem đều trở nên thú vị hơn bao giờ hết. Đây là món tráng miệng hoàn hảo dành cho những ai yêu thích trà sữa nhưng muốn thưởng thức theo một cách mới lạ và độc đáo! 🍦🥤✨",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740934576/xu2urelhwibjfazygjlz.png"
+        }
+      ]
+    },
+    {
+      "id": "ddc1",
+      "name": "MatCha",
+      "products": [
+        {
+          "name": "Matchat",
+          "price": "55000",
+          "description": "Matcha",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740932088/jb1fnvjwcooaanlubffr.png"
+        }
+      ]
+    },
+    {
+      "id": "671d",
+      "name": "OKINAWA",
+      "products": [
+        {
+          "name": "Okinawa-Milk-Foam-Smoothie",
+          "price": "45000",
+          "description": "Okinawa Milk Foam Smoothie là sự hòa quyện hoàn hảo giữa hương vị trà sữa Okinawa đặc trưng với lớp milk foam béo mịn, tạo nên một thức uống thơm ngon, đầy cuốn hút.\nVới vị ngọt thanh của đường nâu Okinawa, kết hợp cùng sữa tươi mát lạnh và lớp kem milk foam mịn màng, mỗi ngụm đều mang đến cảm giác ngọt dịu, béo ngậy nhưng không hề ngấy. Nếu bạn là tín đồ của trà sữa nhưng muốn thử một phiên bản mới lạ, Okinawa Milk Foam Smoothie chính là lựa chọn không thể bỏ qua! 💛✨",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740934694/xofflhwp71c4g4gh3hpp.png"
+        },
+        {
+          "name": "Okinawa-Oreo-Cream-Milk-Tea",
+          "price": "45000",
+          "description": "Okinawa Oreo Cream Milk Tea là sự kết hợp độc đáo giữa vị trà sữa Okinawa thơm ngọt với đường nâu đặc trưng, hòa quyện cùng lớp kem tươi béo mịn và những vụn Oreo giòn tan.\nMỗi ngụm mang đến hương vị đậm đà của trà sữa, vị ngọt caramel từ đường Okinawa, cùng chút béo ngậy của kem và độ giòn hấp dẫn của Oreo. Đây là lựa chọn hoàn hảo cho những ai yêu thích sự mới lạ trong thế giới trà sữa! 💛🍪",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740934742/hsojtjn7qfvgkgbch2wc.png"
+        },
+        {
+          "name": "OKINAWA-TRÀ-SỮA",
+          "price": "55000",
+          "description": "Okinawa Trà Sữa là sự kết hợp hoàn hảo giữa trà sữa đậm đà và vị ngọt thanh của đường nâu Okinawa. Được pha chế từ trà nguyên chất, sữa tươi béo ngậy cùng lớp kem sánh mịn, đồ uống này mang đến hương vị thơm ngon, cuốn hút. Đặc biệt, đường nâu Okinawa không chỉ tạo độ ngọt dịu mà còn làm nổi bật vị caramel đặc trưng, giúp mỗi ngụm trà trở nên hấp dẫn hơn. Thức uống này thường được kết hợp với trân châu dai giòn hoặc Oreo để tăng thêm độ thú vị khi thưởng thức.",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740934812/jyesvnzrxh0entoae4mi.png"
+        },
+        {
+          "name": "OKINAWA-SUA-TUOI",
+          "price": "45000",
+          "description": "Okinawa Sữa Tươi là thức uống thơm ngon với sự hòa quyện giữa sữa tươi béo ngậy và đường nâu Okinawa đặc trưng. Đường nâu không chỉ tạo vị ngọt thanh mà còn mang đến hương caramel hấp dẫn, giúp ly sữa tươi thêm phần đặc biệt. Khi kết hợp cùng trân châu mềm dẻo hoặc kem mịn, đồ uống này trở thành lựa chọn lý tưởng cho những ai yêu thích hương vị ngọt dịu, tự nhiên và đầy lôi cuốn.",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740934867/dmnk3b9xmevhemn2vqmz.png"
+        },
+        {
+          "name": "OKINAWA-LATTE",
+          "price": "37000",
+          "description": "Okinawa Latte là sự kết hợp hoàn hảo giữa cà phê đậm đà và đường nâu Okinawa thơm lừng, tạo nên hương vị ngọt dịu và cân bằng. Với lớp sữa béo mịn hòa quyện cùng cà phê, thức uống này mang đến trải nghiệm vừa đậm đà vừa thanh nhẹ, phù hợp cho những ai yêu thích latte nhưng muốn thêm chút biến tấu mới lạ.",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740934905/qlbaehhvgbffyz1gb37u.png"
+        },
+        {
+          "name": "Cacao",
+          "price": "40000",
+          "description": "Mô tả",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740935800/kfh7vsfwetwayiso5s0d.png"
+        }
+      ]
+    },
+    {
+      "id": "b713",
+      "name": "Tra CAm",
+      "products": [
+        {
+          "name": "Tra cam",
+          "price": "35000",
+          "description": "Tra cam",
+          "image": "https://res.cloudinary.com/dllgye47n/image/upload/v1740983703/oagvd2luphgefw1toicc.png"
+        }
+      ]
+    }
+  ],
+  "Accounts": [
+    {
+      "id": "245e",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "role": true,
+      "cart": []
+    },
+    {
+      "id": "4f4b",
+      "email": "ttw@gmail.com",
+      "password": "123",
+      "role": true,
+      "cart": []
+    },
+    {
+      "id": "1a19",
+      "email": "domchua@gmail.com",
+      "password": "123",
+      "role": false,
+      "cart": []
+    },
+    {
+      "id": "9aa3",
+      "email": "ppoo@gmail.com",
+      "password": "sdf",
+      "role": false,
+      "cart": []
+    },
+    {
+      "id": "7b4c",
+      "email": "teonv@gmail.com",
+      "password": "sd",
+      "role": false,
+      "cart": []
+    },
+    {
+      "id": "837e",
+      "email": "tritai@gmail.com",
+      "password": "ttt",
+      "role": false,
+      "cart": []
+    }
+  ]
+}
